@@ -10,10 +10,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [An Intro to NumPy](https://medium.com/@gautamkrishnar/an-intro-to-numpy-ecaefd9b3aa4?source=rss-d4834e2666d0------2)
+- [The power of open source](https://medium.com/@gautamkrishnar/the-power-of-open-source-2dfe3f749234?source=rss-d4834e2666d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
